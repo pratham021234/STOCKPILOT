@@ -15,3 +15,4 @@ public class BadRequestException extends BaseBusinessException {
         super(message, HttpStatus.BAD_REQUEST, errorCode);
     }
 }
+

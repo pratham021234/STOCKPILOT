@@ -34,3 +34,4 @@ public class PageMetadata {
     @Schema(description = "True if a previous page exists before the current one", example = "false")
     private boolean hasPrevious;
 }
+

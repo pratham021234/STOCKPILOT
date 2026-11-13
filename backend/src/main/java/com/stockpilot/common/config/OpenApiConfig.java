@@ -58,3 +58,4 @@ public class OpenApiConfig {
                                         .description("Enter your JWT Bearer token to authorize requests (configured for upcoming Auth module)")));
     }
 }
+

@@ -38,3 +38,4 @@ class HealthControllerIntegrationTest {
                 .andExpect(jsonPath("$.timestamp", notNullValue()));
     }
 }
+

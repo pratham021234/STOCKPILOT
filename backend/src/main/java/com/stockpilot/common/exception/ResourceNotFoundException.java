@@ -17,3 +17,4 @@ public class ResourceNotFoundException extends BaseBusinessException {
         super(message, HttpStatus.NOT_FOUND, "RESOURCE_NOT_FOUND");
     }
 }
+

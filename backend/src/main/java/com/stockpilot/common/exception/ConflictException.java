@@ -17,3 +17,4 @@ public class ConflictException extends BaseBusinessException {
                 "RESOURCE_CONFLICT");
     }
 }
+

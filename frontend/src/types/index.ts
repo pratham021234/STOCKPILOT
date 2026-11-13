@@ -59,3 +59,4 @@ export interface DashboardMetrics {
   pendingPurchaseOrders: number;
   pendingSalesOrders: number;
 }
+

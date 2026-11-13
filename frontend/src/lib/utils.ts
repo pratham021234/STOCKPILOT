@@ -22,3 +22,4 @@ export function formatDate(dateString: string): string {
     minute: "2-digit",
   }).format(new Date(dateString));
 }
+

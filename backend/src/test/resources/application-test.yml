@@ -35,3 +35,4 @@ stockpilot:
     allowed-headers: "*"
     allow-credentials: false
     max-age-secs: 3600
+

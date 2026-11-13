@@ -30,3 +30,4 @@ public class BaseBusinessException extends RuntimeException {
         this.errorCode = errorCode;
     }
 }
+

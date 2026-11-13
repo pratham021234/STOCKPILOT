@@ -23,3 +23,4 @@ export async function fetchHealthStatus(): Promise<HealthStatus> {
 
   return result.data;
 }
+

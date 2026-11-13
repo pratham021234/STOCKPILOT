@@ -81,3 +81,4 @@ The frontend is built using **React 18**, **TypeScript**, and **Vite**:
 - **Server State Management**: `@tanstack/react-query` v5 handles caching, background polling (such as real-time health checks), and optimistic UI updates.
 - **Form & Input Validation**: `react-hook-form` paired with `zod` type schemas.
 - **Data Visualization**: `recharts` for inventory flow velocity and turnover telemetry.
+

@@ -92,3 +92,4 @@ CREATE TABLE stock_movements (
 1. Format: `V<Version>__<Description>.sql` (e.g. `V1__init_schema.sql`, `V2__auth_and_users.sql`).
 2. Migrations must be strictly backward-compatible.
 3. Once applied to shared or production databases, migration files are immutable.
+

@@ -16,3 +16,4 @@ public class StockPilotApplication {
         SpringApplication.run(StockPilotApplication.class, args);
     }
 }
+

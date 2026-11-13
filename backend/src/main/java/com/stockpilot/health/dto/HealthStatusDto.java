@@ -40,3 +40,4 @@ public class HealthStatusDto {
     @Schema(description = "Health status of dependent subsystems")
     private Map<String, Object> components;
 }
+

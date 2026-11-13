@@ -50,3 +50,4 @@ class ApiResponseTest {
         assertEquals("sku", response.getErrors().get(0).getField());
     }
 }
+

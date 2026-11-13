@@ -61,3 +61,4 @@ class GlobalExceptionHandlerTest {
         assertEquals("INTERNAL_SERVER_ERROR", response.getBody().getErrors().get(0).getCode());
     }
 }
+

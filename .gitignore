@@ -67,3 +67,4 @@ Thumbs.db
 
 # Docker persistent volumes if bound locally
 .docker/
+
